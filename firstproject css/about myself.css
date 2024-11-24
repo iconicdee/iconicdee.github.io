@@ -1,0 +1,64 @@
+/* styling project*/
+body{
+    background-color:#F28705;
+    color:#011F26;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+    font-size:1.2rem;
+    font-style: italic;
+    line-height: 1.3rem;
+}
+blockquote{
+    
+    color: #011F26;
+    padding: % 0 20px 1rem;
+    margin: 1rem;
+    border: 5px solid white;
+    #011F26;  
+    font-size: 1rem;
+    list-style: none;
+    padding-left: 1rem;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+li{
+    color: #011F26;
+    padding: % 0 20px 1rem;
+    padding-left: 1rem;
+    margin: 1rem;
+    border-left: 10px solid white;
+    border-top: 5px solid #011F26;  
+    font-size: 1rem;
+    list-style: none;
+}
+
+a:link{
+    color:gray;
+    
+}
+a:visited{
+    color: gray;
+    
+}
+a:hover{
+    color: red;
+    
+}
+a:active{
+    color:yellow;
+    
+}
+.direction{
+    margin: 5% 0 2.5% 0;
+}
+
+.picture{
+    display: flex;
+	flex-flow: row nowrap;
+    
+    
+	
+
+}
